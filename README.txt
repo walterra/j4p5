@@ -6,7 +6,7 @@ If you only intend to run javascript code, the following files are not needed an
 - js.l
 - js.y
 - parse/metascanner.y
-- parser/generator.so.php
+- parse/generator.so.php
 
 This package contains a few examples. You can delete those if you choose as well:
 - example1.php
